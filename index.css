@@ -8,17 +8,26 @@
 
 #overallbg {
 	background-image: url(images/background5.jpg);
-	background-position: initial;
+	background-position: center;
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
-	}
+}
 
-	#mynav {
-		font-weight: 800;
-	}
+#mynav {
+	font-weight: 800;
+}
 
 #mylanding h1 {
 	font-weight: 800;
+}
+
+#mylanding, #mytools {
+	background-image: url(images/background7.jpg);
+	background-position: center;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	
 }
