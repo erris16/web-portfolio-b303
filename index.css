@@ -1,0 +1,24 @@
+* {
+	font-family: 'Ubuntu', sans-serif;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	scroll-behavior: smooth;
+}
+
+#overallbg {
+	background-image: url(images/background5.jpg);
+	background-position: initial;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	}
+
+	#mynav {
+		font-weight: 800;
+	}
+
+#mylanding h1 {
+	font-weight: 800;
+}
